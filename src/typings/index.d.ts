@@ -1,4 +1,4 @@
-declare module "statcord.js" {
+declare module "@arimajs/statcord.js" {
     // Import modules
     import * as Discord from "discord.js";
     import { EventEmitter } from "events";
